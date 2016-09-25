@@ -1,0 +1,10 @@
+h1 {
+	padding-bottom: 10px;
+	border-bottom-color: lightgrey;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+#button {
+	margin-top: 25px;
+}
