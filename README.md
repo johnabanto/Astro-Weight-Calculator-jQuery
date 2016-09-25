@@ -1,0 +1,1 @@
+Updated the Astro Weight Calculator using jQuery this time to create functionality and simplify my code. Bootstrap was utilized in my HTML page to create the display of my calculator to also scale with different media devices.
